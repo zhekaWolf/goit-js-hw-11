@@ -9,7 +9,7 @@ import {
   showSuccess,
   showError,
   smoothScrollAfterAppend,
-} from './js/render-function.js';
+} from './js/render-functions.js';
 
 
 
